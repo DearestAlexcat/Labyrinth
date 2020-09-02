@@ -1,4 +1,4 @@
 # Labyrinth
 Generating a maze in C# (WinForm)
 
-![](Screenshot.PNG)
+![](Screenshots/Screenshot.PNG)
